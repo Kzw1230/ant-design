@@ -106,7 +106,6 @@
     "@ant-design/css-animation": "^1.7.2",
     "@ant-design/icons": "^4.1.0",
     "@ant-design/react-slick": "~0.26.1",
-    "@ant-design/colors": "^4.0.0",
     "array-tree-filter": "^2.1.0",
     "classnames": "~2.2.6",
     "copy-to-clipboard": "^3.2.0",
@@ -151,6 +150,7 @@
   },
   "devDependencies": {
     "@ant-design/bisheng-plugin": "^2.3.0",
+    "@ant-design/colors": "^4.0.0",
     "@ant-design/hitu": "^0.0.0-alpha.13",
     "@ant-design/tools": "^8.2.0",
     "@qixian.cs/github-contributors-list": "^1.0.3",
